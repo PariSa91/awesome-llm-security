@@ -89,6 +89,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Improving Alignment and Robustness with Circuit Breakers", 2024-06, NeurIPS 24, [[paper]](https://www.themoonlight.io/paper/share/3d4b1d35-3e81-4a66-b48a-775896ce708a), [[repo]](https://github.com/GraySwanAI/circuit-breakers)
 
 ### Platform Security
+- "GATEBLEED: Exploiting On-Core Accelerator Power Gating for High Performance Stealthy Attacks on AI", 2025-07, MICRO 25, `hardware-side-channel`, `membership-inference`, [[paper]](https://arxiv.org/abs/2507.17033)
 - "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI’s ChatGPT Plugins", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/fdb16919-a931-4690-bbf0-602d6feb56e5) [[repo]](https://github.com/llm-platform-security/chatgpt-plugin-eval)
 
 ### Survey
